@@ -1,0 +1,26 @@
+[
+    {
+        "id": "fbb01f40-aa6d-429a-add4-d2cf4ea80076",
+        "name": "Andorra",
+        "imagenURLDto": {
+            "nombre": "Andorra",
+            "url": "http://localhost:8080/static/Barca.png"
+        }
+    },
+    {
+        "id": "cd43e833-a2b8-4cb1-b053-48da0fc0214e",
+        "name": "Thader",
+        "imagenURLDto": {
+            "nombre": "Escudo del thader dos",
+            "url": "http://localhost:8080/static/Bilbao.png"
+        }
+    },
+    {
+        "id": "54c98936-63cd-4757-b7f4-51e15c1e0318",
+        "name": "Catral",
+        "imagenURLDto": {
+            "nombre": "Puerta de la Vega Baja",
+            "url": "http://localhost:8080/static/Joventut.png"
+        }
+    }
+]
